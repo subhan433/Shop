@@ -11,7 +11,7 @@ import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContaine
 
 import { Product, CartItem, User } from './types';
 import { INITIAL_PRODUCTS, CATEGORIES } from './constants';
-import { getStyleAdvice } from './services/geminiService';
+import { getStyleAdvice } from './geminiService';
 
 // --- Helper Components ---
 
