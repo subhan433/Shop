@@ -1,0 +1,7 @@
+{
+  "name": "ShopVibe Maison",
+  "description": "A premium fashion e-commerce experience featuring AI-powered styling advice, artisanal collections, and a robust admin dashboard for inventory management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
